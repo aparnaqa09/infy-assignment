@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32433" started-at="2017-11-18T18:43:55Z" finished-at="2017-11-18T18:44:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32433" started-at="2017-11-18T18:43:55Z" finished-at="2017-11-18T18:44:27Z">
+      <class name="test.EmailClickDemo">
+        <test-method status="PASS" signature="clickEmail()[pri:0, instance:test.EmailClickDemo@5d5eef3d]" name="clickEmail" duration-ms="32417" started-at="2017-11-19T00:13:55Z" finished-at="2017-11-19T00:14:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickEmail -->
+      </class> <!-- test.EmailClickDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
